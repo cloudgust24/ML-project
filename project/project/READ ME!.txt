@@ -1,0 +1,18 @@
+THIS PROJECT IS WORKED ON THE PREDICTION OF DIABETES DISEASE BY USING MACHINE LEARNING AND PYTHON
+
+MAINLY IN THIS PROJECT WE USED STREAMLIT LIBRARY TO DEVELOP WEB APPLICATION
+
+to run this web app follow these steps
+
+step 1- install streamlit library in command promot as "pip install streamlit"
+step 2- after the installation of streamlit library open the project folder and copy the path of the webapp.py(eg.-"C:\Users\kay\Desktop\project\webapp.py")
+step 3- open command promot then type    streamlit run "C:\Users\kay\Desktop\project\webapp.py"
+
+IF YOU HAVE ANY COMMENT ON THIS APP USE kalebasnake2019@gmai.com or
+ contact us by +251932165693
+               +251988745044
+               +251945756110
+
+
+          REFLECTION TEAM
+
